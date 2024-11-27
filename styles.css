@@ -1,0 +1,92 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+header, footer {
+  background-color: #011C40;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+main h1{
+  font-size: 4em;
+}
+
+.pesquisa-container {
+  width: 50%;
+  height: 60px;
+  background-color: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  border-radius: 20px;
+  display: flex;
+}
+
+.pesquisa-container input, .pesquisa-container button {
+  border: none;
+  border-radius: inherit;
+  font-size: 1.3em;
+}
+
+.pesquisa-container input {
+  flex: 1;
+  padding: 0 20px;
+  outline: none;
+  color: #333;
+}
+
+.pesquisa-container button {
+  width: 100px;
+  background-color: transparent;
+  color: #333;
+  cursor: pointer;
+}
+
+.resultados{
+  margin-top: 20px;
+  width: 50%;
+  max-height: 400px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.avatar-card{
+  width: 90%;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #011C40;
+  color: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  display: flex;
+}
+
+.avatar-card img{
+  width: 300px;
+  height: 300px;
+  border-radius: 10px;
+  object-fit: cover;
+  object-position: center top;
+}
+
+.avatar-card section{
+  margin-left: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
