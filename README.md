@@ -37,7 +37,7 @@ O projeto é composto pelos seguintes arquivos e pastas:
 
 ## Demonstração
 
-Você pode acessar uma demonstração ao vivo do projeto no seguinte link: [Avatares do Metaverso](https://imers-o-dev-com-google-gemini-nu.vercel.app/).
+Você pode acessar uma demonstração ao vivo do projeto no seguinte link: [Avatares do Metaverso](https://imers-o-dev-com-google-gemini-nu.vercel.app).
 
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request com melhorias e sugestões.
@@ -46,4 +46,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou env
 Este projeto está sob a licença MIT. Para mais detalhes, consulte o arquivo [LICENSE](LICENSE).
 
 ## Contato
-Para qualquer dúvida ou sugestão, entre em contato pelo email: **[seu-email@example.com](mailto:seu-email@example.com)**.
+Para qualquer dúvida ou sugestão, entre em contato pelo email: **[yurifernandespreto@gmail.com](mailto:yurifernandespreto@gmail.com)**.
